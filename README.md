@@ -1,0 +1,1 @@
+# ABAQUS-Parametric-Study-Scripting
